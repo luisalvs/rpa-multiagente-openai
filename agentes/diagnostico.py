@@ -14,7 +14,7 @@ agente_diagnostico = Agent(
     handoff_description=(
         "Especialista em investigar falhas de "
         "automações RPA e sugerir soluções técnicas."
-    ),       
+    ),
     instructions="""
     Você é um agente especializado em diagnóstico de
     falhas de automações Python e RPA.
