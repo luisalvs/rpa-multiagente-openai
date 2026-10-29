@@ -295,11 +295,3 @@ Os testes de configuração não substituem avaliações do comportamento real d
 Este projeto faz parte de um roteiro prático de evolução de **Desenvolvimento Python e RPA para Engenharia de IA e Automação Inteligente**.
 
 Seu objetivo é demonstrar como estruturar agentes especializados, executar ferramentas Python, integrar serviços HTTP e aplicar testes automatizados.
-
-## 👨‍💻 Autor
-
-**Luis Alves**
-
-Desenvolvedor Python | RPA | APIs REST | Automação Inteligente
-
-GitHub: https://github.com/luisalvs
